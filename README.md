@@ -126,3 +126,20 @@ Data gaps — 2020–2021 entirely missing, likely due to reporting delays.
 - For very small countries with tiny populations, even modest industrial activity can push their per-person emissions off the charts.
 
 - Example: A small island with a big oil refinery can appear “dirtier” than big economies.
+
+# Region-wise Top 5 Countries by Total CO₂ Emissions Per Capita (1990–2019)
+(Sum of all years per person)
+
+- North America: USA, Canada, Trinidad & Tobago, Saint Kitts & Nevis, Antigua & Barbuda.
+
+- Middle East & North Africa: Qatar, Kuwait, Bahrain, UAE, Oman.
+
+- Europe & Central Asia: Luxembourg, Estonia, Kazakhstan, Czech Republic, Russia.
+
+- East Asia & Pacific: Australia, Brunei, Mongolia, South Korea, New Zealand.
+
+- Latin America & Caribbean: Trinidad & Tobago, Aruba, Curacao, Saint Kitts & Nevis, Antigua & Barbuda.
+
+- South Asia: Maldives, Bhutan, Sri Lanka, India, Pakistan.
+
+- Sub-Saharan Africa: Seychelles, Equatorial Guinea, Botswana, Gabon, South Africa.
