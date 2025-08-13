@@ -92,10 +92,10 @@ Data gaps — 2020–2021 entirely missing, likely due to reporting delays.
 1. Most of the world pollutes very little — but a few countries pollute a lot
 2. A handful of countries emit more than 30 tons per person — that’s over 15× the global median.
 
-The majority of countries emit less than 2 tons of CO₂ per person per year.
-Based on your EDA PDF and common 2019 per-capita CO₂ data patterns, the countries above 30 metric tons per person are typically small, high-income, fossil-fuel-producing states.
+- The majority of countries emit less than 2 tons of CO₂ per person per year.
+- Based on your EDA PDF and common 2019 per-capita CO₂ data patterns, the countries above 30 metric tons per person are typically small, high-income, fossil-fuel-producing states.
 
-- From the type of dataset you used, those would be:
+- From the type of dataset used, those would be:
 
 - Qatar – often above 35 t/capita
 
