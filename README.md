@@ -89,56 +89,62 @@ Data gaps — 2020–2021 entirely missing, likely due to reporting delays.
 
 # Simple, Impactful Insights
 
-- Most of the world pollutes very little — but a few countries pollute a lot
-- A handful of countries emit more than 30 tons per person — that’s over 15× the global median.
+1. Most of the world pollutes very little — but a few countries pollute a lot
+2. A handful of countries emit more than 30 tons per person — that’s over 15× the global median.
 
 The majority of countries emit less than 2 tons of CO₂ per person per year.
 Based on your EDA PDF and common 2019 per-capita CO₂ data patterns, the countries above 30 metric tons per person are typically small, high-income, fossil-fuel-producing states.
 
-1. From the type of dataset you used, those would be:
+- From the type of dataset you used, those would be:
 
-2. Qatar – often above 35 t/capita
+- Qatar – often above 35 t/capita
 
-3. Kuwait – ~25–30 t/capita (sometimes just at the threshold)
+- Kuwait – ~25–30 t/capita (sometimes just at the threshold)
 
-4. United Arab Emirates (UAE) – ~22–32 t/capita in many years
+- United Arab Emirates (UAE) – ~22–32 t/capita in many years
 
-5. Bahrain – ~30–32 t/capita
+- Bahrain – ~30–32 t/capita
 
-6. Oman – ~30 t/capita in peak years
+- Oman – ~30 t/capita in peak years
 
-7. Luxembourg – around the lower 30s in some years
+- Luxembourg – around the lower 30s in some years
 
-8. Brunei Darussalam – around 30 t/capita
+- Brunei Darussalam – around 30 t/capita
+  
+These values are high because:
 
-- This shows global emissions are not evenly distributed.
+- They have small populations but large oil/gas industries.
 
-- Wealth and emissions go hand-in-hand
+- Energy use per person is very high (desalination, cooling, transport).
 
-- Richer countries almost always have higher per-person emissions.
+3. This shows global emissions are not evenly distributed.
 
-- Poorer countries contribute far less, even though they may have large populations.
+4. Wealth and emissions go hand-in-hand
 
-- Your region matters
+5. Richer countries almost always have higher per-person emissions.
 
-- People in North America and the Middle East emit far more CO₂ than those in Africa or South Asia.
+6. Poorer countries contribute far less, even though they may have large populations.
 
-- This reflects differences in lifestyle, industry, and energy use.
+7. Your region matters
 
-- Countries rarely change their pollution ranking
+8. People in North America and the Middle East emit far more CO₂ than those in Africa or South Asia.
 
-- If a country was a high emitter in 1990, it’s probably still high today.
+9. This reflects differences in lifestyle, industry, and energy use.
 
-- This means emissions are tied to long-term economic and infrastructure patterns, not short-term changes.
+10. Countries rarely change their pollution ranking
 
-- 2020 and 2021 data is missing
+11. If a country was a high emitter in 1990, it’s probably still high today.
 
-- Likely due to delays in international reporting (and possibly COVID-19 disruptions).
+12. This means emissions are tied to long-term economic and infrastructure patterns, not short-term changes.
 
-- This gap itself is important — it means we can’t yet see the pandemic’s effect on emissions.
+13. 2020 and 2021 data is missing
 
-- Some extreme values may be misleading
+14. Likely due to delays in international reporting (and possibly COVID-19 disruptions).
 
-- For very small countries with tiny populations, even modest industrial activity can push their per-person emissions off the charts.
+15. This gap itself is important — it means we can’t yet see the pandemic’s effect on emissions.
 
-- Example: A small island with a big oil refinery can appear “dirtier” than big economies.
+16. Some extreme values may be misleading
+
+17. For very small countries with tiny populations, even modest industrial activity can push their per-person emissions off the charts.
+
+18. Example: A small island with a big oil refinery can appear “dirtier” than big economies.
