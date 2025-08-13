@@ -1,5 +1,5 @@
 # CO₂ Emission Dataset – EDA Insights
-1. Data Overview
+## 1. Data Overview
 
 Countries: 267
 
