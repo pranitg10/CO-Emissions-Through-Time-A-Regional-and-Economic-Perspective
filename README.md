@@ -87,7 +87,7 @@ Stable rankings — Country emission levels change little over time.
 Data gaps — 2020–2021 entirely missing, likely due to reporting delays.
 
 
-# Simple, Impactful Insights
+## Simple, Impactful Insights
 
 1. Most of the world pollutes very little — but a few countries pollute a lot
 
@@ -127,7 +127,7 @@ Data gaps — 2020–2021 entirely missing, likely due to reporting delays.
 
 - Example: A small island with a big oil refinery can appear “dirtier” than big economies.
 
-# Region-wise Top 5 Countries by Total CO₂ Emissions Per Capita (1990–2019)
+## Region-wise Top 5 Countries by Total CO₂ Emissions Per Capita (1990–2019)
 (Sum of all years per person)
 
 - North America: USA, Canada, Trinidad & Tobago, Saint Kitts & Nevis, Antigua & Barbuda.
